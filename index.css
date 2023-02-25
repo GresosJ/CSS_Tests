@@ -30,7 +30,7 @@ body{
 }
 
 
-.cubo div{
+.sides{
     position: absolute;
     top: 0;
     left: 0;
@@ -39,7 +39,7 @@ body{
     transform-style: preserve-3d;
 }
 
-.cubo div span{
+.sides span{
     position: absolute;
     top: 0;
     left: 0;
